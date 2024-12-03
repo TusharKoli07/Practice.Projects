@@ -1,0 +1,14 @@
+/* AboutPage.css */
+.bg-gradient-to-b {
+  background: linear-gradient(to bottom, #f0f9ff, #e2e8f0, #ffffff);
+}
+
+h1, h2 {
+  font-family: 'Arial', sans-serif;
+  font-weight: bold;
+}
+
+p {
+  font-family: 'Verdana', sans-serif;
+  line-height: 1.8;
+}

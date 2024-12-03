@@ -1,0 +1,13 @@
+/* Ensure no content overlaps with the navbar */
+body {
+    margin-top: 0;
+    padding-top: 5rem; /* Adjust to navbar height */
+  }
+  
+  /* Apply sticky behavior and ensure it's at the top of the screen */
+  .sticky-navbar {
+    position: sticky;
+    top: 0;
+    z-index: 50;
+  }
+  

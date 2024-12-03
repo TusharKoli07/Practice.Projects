@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    margin:1px;
+   
+}
+body{
+    background-color:gray-100;
+    width:100%;
+    /* Ensure content doesn't go under the navbar */
+  
+}
